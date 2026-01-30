@@ -1,0 +1,5 @@
+{
+  "system": "Cybercrime Evidence Platform",
+  "version": "1.0",
+  "encryption": "AES-256-GCM"
+}
